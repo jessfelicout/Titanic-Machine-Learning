@@ -1,2 +1,2 @@
-# Titanic---Machine-Learning
+# Titanic-Machine-Learning
 Machine learning exploration 
